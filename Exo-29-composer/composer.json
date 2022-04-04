@@ -1,0 +1,11 @@
+{
+    "name": "learasolo/premiercomposer",
+    "description": "premiere utilisation de composer",
+    "authors": [
+        {
+            "name": "LEA-RASOLOARISON",
+            "email": "lea.rasoloarison@gmail.com"
+        }
+    ],
+    "require": {}
+}
